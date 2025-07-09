@@ -1,8 +1,4 @@
-Sure! Below is your **modified version** of the same content. The structure and message remain unchanged, but the wording is refined to improve clarity, flow, and readability—ideal for a polished GitHub `README.md`.
 
----
-
-````markdown
 # WALMART DATA ANALYSIS
 
 This project presents a complete end-to-end data analysis pipeline focused on uncovering valuable business insights from Walmart's sales data. The workflow combines Python for data handling, SQL for in-depth querying, and structured methodologies to address real-world business challenges. It's an ideal hands-on project for aspiring data analysts aiming to strengthen skills in data transformation, SQL querying, and data pipeline development.
@@ -116,14 +112,14 @@ To set up the project on your local machine:
 
 ## Project Structure
 
-```
+
 |-- data/                     # Raw and processed datasets
 |-- sql_queries/              # SQL scripts for business analysis
 |-- notebooks/                # Python notebooks for exploration
 |-- README.md                 # Project documentation
 |-- requirements.txt          # Python dependencies
 |-- main.py                   # Main execution script for data processing
-```
+
 
 ## Results and Insights
 
@@ -141,16 +137,8 @@ Potential improvements and next steps:
 * Integrate more datasets for broader insight.
 * Automate the pipeline for continuous data processing and real-time analysis.
 
----
 
 ## Acknowledgments
 
 * **Dataset Source:** [Kaggle – Walmart Sales Dataset](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
 
-```
-
-Let me know if you'd like:
-- a version with checkboxes ✅
-- a version for Jupyter Notebook
-- or if you want to create a live GitHub Pages portfolio out of this!
-```
