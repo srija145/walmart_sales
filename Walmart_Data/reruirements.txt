@@ -6,8 +6,7 @@ sqlalchemy
 psycopg2
 
 
-#Instructions & Termnal Commands
-
+#Instructions & Terminal Commands
 
 # Environment Setup
 
