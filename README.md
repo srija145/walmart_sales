@@ -1,4 +1,8 @@
 
+
+---
+
+````markdown
 # WALMART DATA ANALYSIS
 
 This end-to-end data analysis project is focused on deriving actionable insights from Walmart sales data. It incorporates Python for data wrangling and transformation, SQL for advanced analytical queries, and methodical problem-solving to address key business challenges. This project serves as a practical guide for data analysts seeking to enhance their expertise in data manipulation, SQL querying, and building data pipelines.
