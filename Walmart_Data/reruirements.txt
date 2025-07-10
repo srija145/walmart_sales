@@ -1,0 +1,6 @@
+Install Required Libraries
+
+pandas
+pymysql
+sqlalchemy
+psycopg2
