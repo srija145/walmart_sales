@@ -1,4 +1,6 @@
 # WALMART DATA ANALYSIS
+![image](https://github.com/user-attachments/assets/6f139ec1-c2c9-43b6-b8d3-e1a30f4e069b)
+
 
 This project delivers a comprehensive data analysis workflow focusing on uncovering actionable insights from Walmart sales data. It leverages Python for data preprocessing and analytics, SQL for crafting complex queries, and a strategic approach to addressing real-world business challenges. Designed for aspiring data analysts, this project offers hands-on experience in data transformation, SQL analysis, and building efficient data pipelines.
 
